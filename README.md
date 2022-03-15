@@ -4,4 +4,5 @@ Some of our picks you might like:
 - Choco Lava Cake
 - Bannana Chips
 
-See Demo here : [https://shafaq-here.github.io/odin-recipes/](Odin Recipes)
+See Demo here : [Odin Recipes](https://shafaq-here.github.io/odin-recipes/)
+
